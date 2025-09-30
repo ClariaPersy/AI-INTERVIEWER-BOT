@@ -1,0 +1,31 @@
+# Core scientific & ML
+numpy
+pandas
+scikit-learn
+scipy
+
+# NLP & embeddings
+spacy
+sentence-transformers
+
+# Llama ecosystem
+llama-parse
+llama-index
+
+# PhiData (Agent + Groq model)
+phidata
+
+# Visualization
+matplotlib
+seaborn
+wordcloud
+
+# Utilities
+python-dotenv
+faiss-cpu
+
+# Text-to-Speech
+gTTS
+playsound==1.2.2
+
+# Extra (logging, datetime, json, os, re, pickle, etc. are built-in)
